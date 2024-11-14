@@ -1,12 +1,1 @@
-A basic testing library for Q#.
-
-```qsharp
-function Tests() : Unit {
-    TestMany(
-        [
-            ("Should return one", TestFunctionOne()),
-            ("Should return two", TestFunctionTwo()),
-        ]
-    )
-}
-```
+Archived in favor of [this version](https://github.com/microsoft/qsharp/pull/2013).
